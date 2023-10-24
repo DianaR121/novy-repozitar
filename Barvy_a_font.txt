@@ -1,0 +1,8 @@
+Barvy
+#9CD0E7
+#344A53
+#98AFBA
+
+Font
+Righteous- nadpisy
+Catamaran- hlavní text
